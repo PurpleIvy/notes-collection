@@ -1,0 +1,37 @@
+# Notes for my ideas about this app
+
+
+TUI and GUI versions available
+
+Would allow you to create folders and files. 
+	You would be able to access these files
+		With a tree showing them? Keybind to list in the TUI version, same on GUI but it could also be a panel that shows up instead
+			Maybe a panel comes up on both.
+				Panel shows a tree like Tree view - except nicer looking - that shows all the files in the folders. (https://en.wikipedia.org/wiki/Tree_view)
+			
+Would allow you to easily reference these files in other files. You would also be able to reference specific lines, and see what is in the file you are referencing. 
+
+Maybe have a reference mode so that it can easily check if a line is a reference or not, if it is then hovering or clicking could show or take you to the referenced file (and line if posible).
+
+
+Allow lots of customisation in settings, different keybinds modes etc.
+
+
+
+
+
+
+
+
+
+Possible uses
+
+
+-	Could be very useful for design documents for big projects, instead of having hundreds of thousands of lines in a single text document, you could have multiple easily accesible
+
+-	Could be good for multiple people working on something, maybe allow multiple people to have access to a folder. These people would be able to reference what other people did without having to do it in the same document.
+
+-	Can't think of many more uses, but idc, i still like it.
+
+
+
